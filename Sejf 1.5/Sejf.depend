@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1642676192 source:c:\users\szymo\onedrive\pulpit\sejf\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1642676192 source:d:\studia\codeblocks-programy\moje programy\sejf 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1655483826 source:c:\users\szymo\onedrive\pulpit\sejf 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
